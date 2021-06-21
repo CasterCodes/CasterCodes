@@ -39,6 +39,7 @@
 <br />
 
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=castercodes&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/repo/?username=castercodes&theme=gotham" />
 
 [mytwitter]: https://twitter.com/CasterKno
 [myfacebook]: https://www.facebook.com/kevin.caster.9655
