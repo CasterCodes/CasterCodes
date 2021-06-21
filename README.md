@@ -9,14 +9,13 @@
 
 ### Connect with me through:
 
-[<img align="left" alt="castercodes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="castercodes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="castercodes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="castercodes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][mytwitter]
+[<img align="left" alt="castercodes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][mylinkedin]
+[<img align="left" alt="castercodes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][myfacebook]
 
-[twitter]: https://twitter.com/CasterKno
-[facebook]: https://www.facebook.com/kevin.caster.9655
-[linkedin]: https://www.linkedin.com/in/kevin-caster-611431201/
 
+<br />
+<br />
 
 ### Language And Tools that I use:
 
@@ -30,4 +29,10 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
+
+
+
+[mytwitter]: https://twitter.com/CasterKno
+[myfacebook]: https://www.facebook.com/kevin.caster.9655
+[mylinkedin]: https://www.linkedin.com/in/kevin-caster-611431201/
 
