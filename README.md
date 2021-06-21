@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Fastify framework
 - 👯 I’m looking to collaborate on React.js Projects
 - ⚡ Fun fact: I love solving puzzles
+<br />
 
 ### Connect with me through:
 
@@ -15,7 +16,7 @@
 
 
 <br />
-<br />
+
 
 ### Language And Tools that I use:
 
