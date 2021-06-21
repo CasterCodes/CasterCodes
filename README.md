@@ -1,6 +1,9 @@
 ### Hi there 👋 My name is Kevin Caster
 
 
+### About Me
+I am self-motivated,focused and versatile statistician and programmer. I am fond of web development and software development in general.
+
 
 - 🔭 I’m currently working on Real Estate Website
 - 🌱 I’m currently learning Fastify framework
