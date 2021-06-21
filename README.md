@@ -39,7 +39,8 @@
 <br />
 
 [![anuraghazra's GitHub stats](https://github-readme-stats.vercel.app/api?username=castercodes&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-[![anuraghazra's GitHub stats](https://github-readme-stats.vercel.app/api/repo/?username=castercodes&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castercodes)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [mytwitter]: https://twitter.com/CasterKno
 [myfacebook]: https://www.facebook.com/kevin.caster.9655
