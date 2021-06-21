@@ -32,7 +32,7 @@
 
 
 
-[mytwitter]: https://twitter.com/CasterKno
+<!-- [mytwitter]: https://twitter.com/CasterKno
 [myfacebook]: https://www.facebook.com/kevin.caster.9655
-[mylinkedin]: https://www.linkedin.com/in/kevin-caster-611431201/
+[mylinkedin]: https://www.linkedin.com/in/kevin-caster-611431201/ -->
 
