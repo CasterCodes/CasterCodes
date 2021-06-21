@@ -43,8 +43,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castercodes&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castercodes&theme=gotham&repo=E-commerce-website)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castercodes&theme=gotham&repo=natours)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castercodes&theme=gotham&repo=Social-connect-)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castercodes&theme=gotham&repo=Contact-Keeper)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
