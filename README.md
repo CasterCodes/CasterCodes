@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on React.js Projects
 - ⚡ Fun fact: I love solving puzzles
 
-### Connect with me:
+### Connect with me through:
 
 [<img align="left" alt="castercodes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="castercodes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
