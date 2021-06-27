@@ -6,7 +6,7 @@ I am self-motivated,focused and versatile statistician and programmer. I am fond
 
 
 - 🔭 I’m currently working on Real Estate Website
-- 🌱 I’m currently learning Fastify framework
+- 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on React.js Projects
 - ⚡ Fun fact: I love solving puzzles
 <br />
