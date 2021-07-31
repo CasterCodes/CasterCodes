@@ -35,11 +35,15 @@ I am self-motivated,focused and versatile statistician and programmer. I am fond
 ## My Github Statistics
 
 <br />
-
-[![anuraghazra's GitHub stats](https://github-readme-stats.vercel.app/api?username=castercodes&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castercodes&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castercodes&theme=gotham&repo=E-commerce-website)](https://github.com/anuraghazra/github-readme-stats)
+First Header  | Second Header
+------------- | -------------
+ [![anuraghazra's GitHub stats](https://github-readme-stats.vercel.app/api?username=castercodes&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castercodes&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castercodes&theme=gotham&repo=E-commerce-website)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castercodes&theme=gotham&repo=natours)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 
 
