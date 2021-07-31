@@ -34,8 +34,6 @@ I am self-motivated,focused and versatile statistician and programmer. I am fond
 <br />
 ## My Github Statistics
 
-<br /><br />
-
 Github Stats         |  Top Languages
 :-------------------------:|:-------------------------:
 [![anuraghazra's GitHub stats](https://github-readme-stats.vercel.app/api?username=castercodes&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castercodes&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
