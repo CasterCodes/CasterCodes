@@ -43,8 +43,7 @@ Github Stats         |  Top Languages
 
 
 :-------------------------:|:-------------------------:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castercodes&theme=gotham&repo=E-commerce-website)](https://github.com/anuraghazra/github-readme-stats) |  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castercodes&theme=gotham&repo=natours)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castercodes&theme=gotham&repo=E-commerce-website)](https://github.com/anuraghazra/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castercodes&theme=gotham&repo=natours)](https://github.com/anuraghazra/github-readme-stats)
  
 
 
