@@ -8,14 +8,14 @@ I am a highly self-motivated, focused, and versatile statistician and programmer
 - 🌱 I’m currently developing a saas product called Mohub.
 - 👯 I’m looking to collaborate on React Native, React, Express.js and Python Projects
 - ⚡ Fun fact: I love solving puzzles
-- 
+
 <br />
 
 ### Connect with me through:
 
-[<img align="left" color='white' alt="castercodes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][mytwitter]
-[<img align="left" alt="castercodes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][mylinkedin]
-[<img align="left" alt="castercodes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][myfacebook]
+[<img align="left"  style="filter: invert(100%); width: 24px;" alt="castercodes | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][mytwitter]
+[<img align="left"  style="filter: invert(100%); width: 24px;" alt="castercodes | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][mylinkedin]
+[<img align="left"  style="filter: invert(100%); width: 24px;" alt="castercodes | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][myfacebook]
 
 <br />
 
@@ -38,9 +38,9 @@ Github Stats         |  Top Languages
 :-------------------------:|:-------------------------:
 [![anuraghazra's GitHub stats](https://github-readme-stats.vercel.app/api?username=castercodes&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castercodes&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Ecommerce Website        |  Natours Website
+<!-- Ecommerce Website        |  Natours Website
 :-------------------------:|:-------------------------:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castercodes&theme=gotham&repo=E-commerce-website)](https://github.com/anuraghazra/github-readme-stats) |  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castercodes&theme=gotham&repo=natours)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castercodes&theme=gotham&repo=E-commerce-website)](https://github.com/anuraghazra/github-readme-stats) |  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castercodes&theme=gotham&repo=natours)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
