@@ -1,19 +1,19 @@
-### Hi there 👋 My name is Kevin Caster
+# Hi there 👋 My name is Kevin Caster
 
 
-### About Me
-I am self-motivated,focused and versatile statistician and programmer. I am fond of web development and software development in general.
+## About Me
+I am a highly self-motivated, focused, and versatile statistician and programmer, equipped with 4 years of experience as a full stack developer. My passion lies in web development and software development, and I thrive in creating solutions that encompass the entire stack.
 
-
-- 🔭 I’m currently working on Real Estate Website
-- 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on React.js Projects
+- 🔭 I'm currently learning Next.js 13.4  new features.
+- 🌱 I’m currently developing a saas product called Mohub.
+- 👯 I’m looking to collaborate on React Native, React, Express.js and Python Projects
 - ⚡ Fun fact: I love solving puzzles
+- 
 <br />
 
 ### Connect with me through:
 
-[<img align="left" alt="castercodes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][mytwitter]
+[<img align="left" color='white' alt="castercodes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][mytwitter]
 [<img align="left" alt="castercodes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][mylinkedin]
 [<img align="left" alt="castercodes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][myfacebook]
 
