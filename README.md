@@ -3,10 +3,10 @@
 
 
 ## About Me
-I am a highly self-motivated, focused, and versatile statistician and programmer, equipped with 4 years of experience as a full stack developer. My passion lies in web development and software development, and I thrive in creating solutions that encompass the entire stack.
+I am a software developer creating web and mobile applications using JavaScript. I mainly use React.js, Mongoose Express.js and Node as my tools. 
+
 
 - 🔭 I'm currently learning Next.js 13.4  new features.
-- 🌱 I’m currently developing a saas product called Mohub.
 - 👯 I’m looking to collaborate on React Native, React, Express.js and Python Projects
 - ⚡ Fun fact: I love solving puzzles
 
