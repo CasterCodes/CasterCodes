@@ -1,4 +1,5 @@
-# Hi there 👋 My name is Kevin Caster
+# Jambo 👋 
+# My name is Kevin Otwori.
 
 
 ## About Me
