@@ -40,20 +40,20 @@ Looking for collaborators on:
 - 🎯 Hackathons or coding challenges
 
 
-## 📊 GitHub Metrics
+## 📊 GitHub Insights
 
-<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem; margin: 1rem 0;">
 
-<!-- Neumorphic stat cards -->
-<div style="background: #f0f0f0; border-radius: 15px; padding: 1.5rem; box-shadow: 8px 8px 15px #d9d9d9, -8px -8px 15px #ffffff; width: 48%;">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=castercodes&show_icons=true&hide_border=true&bg_color=00000000&title_color=2E86C1&icon_color=2E86C1&text_color=333&custom_title=Development+Activity)](https://github.com/castercodes)
+<!-- Gradient cards -->
+<div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 12px; padding: 1rem; width: 48%;">
+
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=castercodes&background=00000000&stroke=2E86C1&ring=2E86C1&fire=FF6B6B&currStreakNum=2E86C1&sideNums=2E86C1&currStreakLabel=2E86C1&sideLabels=2E86C1)](https://git.io/streak-stats)
 
 </div>
 
-<div style="background: #f0f0f0; border-radius: 15px; padding: 1.5rem; box-shadow: 8px 8px 15px #d9d9d9, -8px -8px 15px #ffffff; width: 48%;">
+<div style="background: linear-gradient(135deg, #e0f7fa 0%, #b2ebf2 100%); border-radius: 12px; padding: 1rem; width: 48%;">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=castercodes&layout=compact&hide_border=true&bg_color=00000000&title_color=2E86C1&text_color=333&langs_count=6)](https://github.com/castercodes)
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=castercodes&bg_color=ffffff00&color=2E86C1&line=2E86C1&point=2E86C1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
