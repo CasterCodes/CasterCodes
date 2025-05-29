@@ -1,88 +1,76 @@
-<!-- Banner Image at the very top -->
+<!-- Vibrant tech-themed banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Banner" width="100%" style="max-height: 200px; object-fit: cover;" />
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80" alt="Tech Banner" width="100%" style="max-height: 220px; object-fit: cover; border-radius: 12px;" />
 </p>
 
-<!-- Profile Image below the banner -->
+<!-- Fun Profile Image below the banner -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" alt="Kevin's Profile Picture" width="120" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" alt="Kevin's Profile Picture" width="130" style="border-radius: 50%; border: 3px solid #4CAF50;" />
 </p>
 
-# Hi there! 👋 I'm Kevin
+# Hey there! 👋 I'm Kevin
 
-**Passionate Software Developer** specializing in **JavaScript** full-stack development. I build robust web and mobile applications using modern technologies.
+🚀 A passionate **JavaScript wizard** crafting magic on both frontend and backend. I love building apps that people actually enjoy using!
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Arsenal
 
-- **Frontend**:  
-  - React.js  
-  - Next.js 13+
-- **Backend**:  
-  - Node.js  
-  - Express.js
-- **Database**:  
-  - MongoDB (Mongoose)
-- **Mobile**:  
-  - React Native
-- **Currently Mastering**:  
-  - Docker  
-  - AWS (EC2, S3, Lambda)
+**Frontend:** React.js, Next.js | **Backend:** Node.js, Express.js | **DB:** MongoDB (Mongoose) | **Mobile:** React Native | **Learning:** Docker, AWS ☁️
 
-## 🌱 Currently Learning
+## 🌱 What I'm Learning These Days
 
 - Containerization with **Docker**  
 - Cloud infrastructure on **AWS**  
-- CI/CD pipelines and DevOps practices
+- CI/CD pipelines & DevOps vibes ⚙️
 
-## 🤝 Collaboration Interests
+## 🤝 Let's Collaborate!
 
-Looking to team up on projects involving:
+I’m always down to team up on:
 
-- React/React Native apps  
-- Node.js/Express backends  
-- Python projects  
-- Open source contributions
+- React / React Native apps  
+- Node.js / Express backends  
+- Python projects 🐍  
+- Open source contributions ❤️
 
-## ⚡ Fun Facts
+## ⚡ Fun Facts About Me
 
-- Puzzle-solving enthusiast (both code and Rubik's cubes!)  
-- Continuous learner - currently doing the #100DaysOfCloud challenge  
-- Love building projects that solve real-world problems
+- Puzzle lover 🧩 — from code riddles to Rubik’s cubes!  
+- On a mission: #100DaysOfCloud challenge ☁️🔥  
+- Passionate about building real-world problem solvers 💡
 
 <br />
 
-### Connect with me through:
+### Let's Connect!
 
-[<img align="left" style="filter: invert(100%); width: 24px; margin-right: 8px;" alt="Kevin | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][mytwitter]
-[<img align="left" style="filter: invert(100%); width: 24px; margin-right: 8px;" alt="Kevin | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][mylinkedin]
-[<img align="left" style="filter: invert(100%); width: 24px; margin-right: 8px;" alt="Kevin | Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][myfacebook]
+[<img align="left" style="filter: invert(100%); width: 28px; margin-right: 12px;" alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][mytwitter]
+[<img align="left" style="filter: invert(100%); width: 28px; margin-right: 12px;" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][mylinkedin]
+[<img align="left" style="filter: invert(100%); width: 28px; margin-right: 12px;" alt="Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][myfacebook]
 
 <br /><br />
 
-### Languages and Tools I Use:
+### Tools & Languages I Rock
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][php]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][sql]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
-[<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][express]
+[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
+[<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
+[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
+[<img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][php]
+[<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+[<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
+[<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+[<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][sql]
+[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
+[<img align="left" alt="Express" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][express]
 
 <br />
 
-## My GitHub Statistics
+## 📊 My GitHub Stats
 
 | GitHub Stats | Top Languages |
 |:------------:|:-------------:|
-| [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=castercodes&theme=gotham)](https://github.com/castercodes) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castercodes&theme=gotham&layout=compact)](https://github.com/castercodes) |
+| [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=castercodes&theme=radical)](https://github.com/castercodes) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castercodes&theme=radical&layout=compact)](https://github.com/castercodes) |
 
 ---
 
-Feel free to check out my repositories or connect with me for exciting projects!
+Thanks for stopping by! Feel free to say hi or check out my projects. ✌️
 
 ---
 
@@ -98,4 +86,3 @@ Feel free to check out my repositories or connect with me for exciting projects!
 [sql]: https://www.mysql.com/
 [mongo]: https://www.mongodb.com/
 [express]: https://expressjs.com/
-
