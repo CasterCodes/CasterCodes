@@ -1,12 +1,12 @@
-
-
-<!-- Profile pic with subtle animation -->
+<!-- 🔥 Banner Up Top -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/56622620?v=4" alt="That's me!" width="130" style="border-radius: 50%; border: 3px solid #2E86C1; box-shadow: 0 0 10px rgba(46,134,193,0.4); transition: transform 0.3s;" onmouseover="this.style.transform='rotate(5deg)'" onmouseout="this.style.transform='rotate(0deg)'" />
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1400&q=80" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey there! I'm Kevin 👨‍💻</h1>
 <h3 align="center">JavaScript Alchemist turning coffee into code</h3>
+
+---
 
 ## 🚀 Tech Stack & Superpowers
 
@@ -25,60 +25,57 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
+---
+
 ## 🌱 Currently Leveling Up
 
-- **Docker** - Containerizing all the things 🐳
-- **AWS** - Building cloud castles ☁️
-- **Performance Optimization** - Making apps zoom 🚀
+- 🐳 **Docker** – Containerizing all the things  
+- ☁️ **AWS** – Building cloud castles  
+- ⚡ **Performance Optimization** – Making apps zoom  
+
+---
 
 ## 🤝 Let's Build Something Awesome
 
-Looking for collaborators on:
-- 🔥 Cutting-edge React/Node projects
-- 🚀 Scalable backend systems
-- 🤖 Cool open source initiatives
-- 🎯 Hackathons or coding challenges
+Looking to team up on:
+- 🔥 React + Node projects  
+- 🚀 Scalable backend systems  
+- 🤖 Open source initiatives  
+- 🎯 Hackathons or coding challenges  
 
+---
 
 ## 📊 GitHub Insights
 
-<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem; margin: 1rem 0;">
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=castercodes&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true)
 
-<!-- Gradient cards -->
-<div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 12px; padding: 1rem; width: 48%;">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=castercodes&layout=compact&theme=radical&hide_border=true&border_radius=10)
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=castercodes&background=00000000&stroke=2E86C1&ring=2E86C1&fire=FF6B6B&currStreakNum=2E86C1&sideNums=2E86C1&currStreakLabel=2E86C1&sideLabels=2E86C1)](https://git.io/streak-stats)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=castercodes&theme=radical&hide_border=true&ring=2E86C1&fire=FF6B6B&currStreakNum=2E86C1)
 
-</div>
+<!-- Bonus Graph (optional) -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=castercodes&bg_color=00000000&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div style="background: linear-gradient(135deg, #e0f7fa 0%, #b2ebf2 100%); border-radius: 12px; padding: 1rem; width: 48%;">
+---
 
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=castercodes&bg_color=ffffff00&color=2E86C1&line=2E86C1&point=2E86C1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📫 Let's Connect
 
-</div>
-
-</div>
-
-## 📫 How to Reach Me
-
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Shoot%20me%20a%20message-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Send%20a%20Hi-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-Follow%20me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-Follow%20me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=castercodes&label=Profile%20Views&color=2E86C1&style=flat-square" alt="Profile views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=castercodes&label=Profile%20Views&color=2E86C1&style=flat-square)
 
 ---
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code." - John Johnson</i>
+  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
 </p>
