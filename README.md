@@ -1,11 +1,8 @@
-<!-- Dynamic tech banner with gradient overlay -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80" alt="Code Development" width="100%" style="max-height: 220px; object-fit: cover; border-radius: 8px; border: 1px solid rgba(46,134,193,0.3); box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
-</p>
+
 
 <!-- Profile pic with subtle animation -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" alt="That's me!" width="130" style="border-radius: 50%; border: 3px solid #2E86C1; box-shadow: 0 0 10px rgba(46,134,193,0.4); transition: transform 0.3s;" onmouseover="this.style.transform='rotate(5deg)'" onmouseout="this.style.transform='rotate(0deg)'" />
+  <img src="https://avatars.githubusercontent.com/u/56622620?v=4" alt="That's me!" width="130" style="border-radius: 50%; border: 3px solid #2E86C1; box-shadow: 0 0 10px rgba(46,134,193,0.4); transition: transform 0.3s;" onmouseover="this.style.transform='rotate(5deg)'" onmouseout="this.style.transform='rotate(0deg)'" />
 </p>
 
 <h1 align="center">Hey there! I'm Kevin 👨‍💻</h1>
@@ -43,12 +40,24 @@ Looking for collaborators on:
 - 🎯 Hackathons or coding challenges
 
 
-## 📊 GitHub War Stats
+## 📊 GitHub Metrics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=castercodes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="My Battle Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castercodes&layout=compact&theme=algolia&hide=html,css" alt="My Weapons of Choice" />
-</p>
+<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+
+<!-- Neumorphic stat cards -->
+<div style="background: #f0f0f0; border-radius: 15px; padding: 1.5rem; box-shadow: 8px 8px 15px #d9d9d9, -8px -8px 15px #ffffff; width: 48%;">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=castercodes&show_icons=true&hide_border=true&bg_color=00000000&title_color=2E86C1&icon_color=2E86C1&text_color=333&custom_title=Development+Activity)](https://github.com/castercodes)
+
+</div>
+
+<div style="background: #f0f0f0; border-radius: 15px; padding: 1.5rem; box-shadow: 8px 8px 15px #d9d9d9, -8px -8px 15px #ffffff; width: 48%;">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=castercodes&layout=compact&hide_border=true&bg_color=00000000&title_color=2E86C1&text_color=333&langs_count=6)](https://github.com/castercodes)
+
+</div>
+
+</div>
 
 ## 📫 How to Reach Me
 
