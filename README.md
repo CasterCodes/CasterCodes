@@ -1,10 +1,7 @@
-<!-- 🔥 Banner Up Top -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1400&q=80" alt="Banner" width="100%" />
-</p>
 
-<h1 align="center">Hey there! I'm Kevin 👨‍💻</h1>
-<h3 align="center">JavaScript Alchemist turning coffee into code</h3>
+
+<h1 align="left">Hey there! I'm Kevin 👨‍💻</h1>
+<h3 align="left">JavaScript Alchemist turning coffee into code</h3>
 
 ---
 
@@ -61,21 +58,19 @@ Looking to team up on:
 ## 📫 Let's Connect
 
 <p>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/kevin-otwori-611431201/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:castercodes@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send%20a%20Hi-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://twitter.com/yourhandle">
+  <a href="https://x.com/CasterKno">
     <img src="https://img.shields.io/badge/Twitter-Follow%20me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=castercodes&label=Profile%20Views&color=2E86C1&style=flat-square)
-
 ---
 
-<p align="center">
+<p align="left">
   <i>"First, solve the problem. Then, write the code." – John Johnson</i>
 </p>
