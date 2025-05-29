@@ -1,88 +1,75 @@
-<!-- Vibrant tech-themed banner -->
+<!-- Dynamic tech banner with gradient overlay -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80" alt="Tech Banner" width="100%" style="max-height: 220px; object-fit: cover; border-radius: 12px;" />
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80" alt="Code Development" width="100%" style="max-height: 220px; object-fit: cover; border-radius: 8px; border: 1px solid rgba(46,134,193,0.3); box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
 </p>
 
-<!-- Fun Profile Image below the banner -->
+<!-- Profile pic with subtle animation -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" alt="Kevin's Profile Picture" width="130" style="border-radius: 50%; border: 3px solid #4CAF50;" />
+  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" alt="That's me!" width="130" style="border-radius: 50%; border: 3px solid #2E86C1; box-shadow: 0 0 10px rgba(46,134,193,0.4); transition: transform 0.3s;" onmouseover="this.style.transform='rotate(5deg)'" onmouseout="this.style.transform='rotate(0deg)'" />
 </p>
 
-# Hey there! 👋 I'm Kevin
+<h1 align="center">Hey there! I'm Kevin 👨‍💻</h1>
+<h3 align="center">JavaScript Alchemist turning coffee into code</h3>
 
-🚀 A passionate **JavaScript wizard** crafting magic on both frontend and backend. I love building apps that people actually enjoy using!
+## 🚀 Tech Stack & Superpowers
 
-## 🛠️ My Tech Arsenal
+**Frontend Sorcery:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Frontend:** React.js, Next.js | **Backend:** Node.js, Express.js | **DB:** MongoDB (Mongoose) | **Mobile:** React Native | **Learning:** Docker, AWS ☁️
+**Backend Wizardry:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## 🌱 What I'm Learning These Days
+**DevOps Toolkit:**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-- Containerization with **Docker**  
-- Cloud infrastructure on **AWS**  
-- CI/CD pipelines & DevOps vibes ⚙️
+## 🌱 Currently Leveling Up
 
-## 🤝 Let's Collaborate!
+- **Docker** - Containerizing all the things 🐳
+- **AWS** - Building cloud castles ☁️
+- **Performance Optimization** - Making apps zoom 🚀
 
-I’m always down to team up on:
+## 🤝 Let's Build Something Awesome
 
-- React / React Native apps  
-- Node.js / Express backends  
-- Python projects 🐍  
-- Open source contributions ❤️
+Looking for collaborators on:
+- 🔥 Cutting-edge React/Node projects
+- 🚀 Scalable backend systems
+- 🤖 Cool open source initiatives
+- 🎯 Hackathons or coding challenges
 
-## ⚡ Fun Facts About Me
 
-- Puzzle lover 🧩 — from code riddles to Rubik’s cubes!  
-- On a mission: #100DaysOfCloud challenge ☁️🔥  
-- Passionate about building real-world problem solvers 💡
+## 📊 GitHub War Stats
 
-<br />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=castercodes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="My Battle Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castercodes&layout=compact&theme=algolia&hide=html,css" alt="My Weapons of Choice" />
+</p>
 
-### Let's Connect!
+## 📫 How to Reach Me
 
-[<img align="left" style="filter: invert(100%); width: 28px; margin-right: 12px;" alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][mytwitter]
-[<img align="left" style="filter: invert(100%); width: 28px; margin-right: 12px;" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][mylinkedin]
-[<img align="left" style="filter: invert(100%); width: 28px; margin-right: 12px;" alt="Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][myfacebook]
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Shoot%20me%20a%20message-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-Follow%20me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
 
-<br /><br />
-
-### Tools & Languages I Rock
-
-[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
-[<img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][php]
-[<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
-[<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][sql]
-[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
-[<img align="left" alt="Express" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][express]
-
-<br />
-
-## 📊 My GitHub Stats
-
-| GitHub Stats | Top Languages |
-|:------------:|:-------------:|
-| [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=castercodes&theme=radical)](https://github.com/castercodes) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castercodes&theme=radical&layout=compact)](https://github.com/castercodes) |
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=castercodes&label=Profile%20Views&color=2E86C1&style=flat-square" alt="Profile views" />
+</p>
 
 ---
 
-Thanks for stopping by! Feel free to say hi or check out my projects. ✌️
-
----
-
-[mytwitter]: https://twitter.com/CasterKno
-[myfacebook]: https://www.facebook.com/kevin.caster.9655
-[mylinkedin]: https://www.linkedin.com/in/kevin-caster-611431201/
-[html5]: https://html5.org/
-[css3]: https://www.w3.org/Style/CSS/Overview.en.html
-[JavaScript]: https://www.javascript.com/
-[php]: https://www.php.net/
-[react]: https://reactjs.org/
-[node]: https://nodejs.org/en/
-[sql]: https://www.mysql.com/
-[mongo]: https://www.mongodb.com/
-[express]: https://expressjs.com/
+<p align="center">
+  <i>"First, solve the problem. Then, write the code." - John Johnson</i>
+</p>
